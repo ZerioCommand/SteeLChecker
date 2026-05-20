@@ -5,7 +5,8 @@
 
 Комплексный инструмент для проверки ПК на наличие читов, скрытого ПО и анализа системной активности. Программа предназначена для глубокой проверки системы, анализа Steam-аккаунтов и автоматизации поиска запрещенных модификаций.
 
-<img width="1920" height="1080" alt="{01B9D576-98BA-4972-895B-91F2064406C8}" src="https://github.com/user-attachments/assets/3140f620-d373-4ccc-ac4b-5ceb0e5777ac" />
+<img width="1920" height="1080" alt="{3A3FC6E2-2F66-4622-B025-6889D976AC02}" src="https://github.com/user-attachments/assets/0e8b49e6-58e1-444a-918b-a19a942ddaee" />
+
 
 ## 🚀 Основные возможности
 
@@ -36,9 +37,11 @@
 *   **Быстрое копирование:** Панель с заготовленными ключевыми словами (ofd, чит, hack) для быстрого поиска.
 *   **Почтовые сервисы:** Быстрый доступ к популярным почтовикам (Gmail, Яндекс, Mail.ru, Proton и др.) для проверки привязок.
 
-<img width="1920" height="1080" alt="{DBFCE680-5034-4ACB-9608-7A676ACF584A}" src="https://github.com/user-attachments/assets/07d9b55f-e4e2-472c-a06f-f6e1e9e17191" />
-<img width="1920" height="1080" alt="{78D6B7AC-BDF5-4781-AFA6-F6FE91FE698E}" src="https://github.com/user-attachments/assets/6ea83be3-8a57-4791-8b25-294d559fccaa" />
-<img width="1920" height="1080" alt="{583DCCAF-B794-47D8-972B-31CCB65B2804}" src="https://github.com/user-attachments/assets/bf349141-61ae-4652-af85-e38396118f0a" />
+<img width="1920" height="1080" alt="{7792ED62-E6E4-426B-B350-E3BD7B3FF25B}" src="https://github.com/user-attachments/assets/e6cce8b6-9344-4fcd-83b1-40a3bb7f27e7" />
+<img width="1920" height="1080" alt="{AA663C52-8354-48E8-BEE5-C87CBDDD8049}" src="https://github.com/user-attachments/assets/103cd026-5dcc-4a72-952c-155661a37397" />
+<img width="1920" height="1080" alt="{51E41033-2865-4BE3-9A37-5B4AC0A496EE}" src="https://github.com/user-attachments/assets/4c0fa878-23b6-4f23-a215-5f9c9e92af43" />
+<img width="1912" height="956" alt="{39EA8975-80F3-4365-8168-A80940BD2C69}" src="https://github.com/user-attachments/assets/de5e4750-28d5-4299-b1c8-564566da22ef" />
+-Последнее фото демонстрация если вы хотите купить подписку вам выдаеться логин пароль и вы получате токен
 
 ## ⚠️ Статус разработки
 
