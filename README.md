@@ -5,7 +5,7 @@
 * **Поддержать проект 
 ## Bitcoin -14FuMnDaJ5TyNvzwyGvTUkcDDr6TQ8t5i6
 ## Ozon Bank -[Ссылкой](https://finance.ozon.ru/apps/sbp/ozonbankpay/019f18bb-d003-7387-be45-910ea91d497a)
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7595356e-0ab9-4ee4-8752-9c5a624eb5de" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7595356e-0ab9-4ee4-8752-9c5a624eb5de" />
 
 
 Комплексный инструмент для глубокой проверки ПК на наличие читов, скрытого ПО и анализа системной активности. Программа полностью автономна, не требует установки стороннего софта и автоматически загружает необходимые модули с сервера при запуске.
