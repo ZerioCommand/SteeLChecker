@@ -2,7 +2,7 @@
 
 * **Проект, который использует чекер:** [ТУТ](https://luxecs2.ru/)
 * **Покупка подписки / Полный выкуп программы:** [ТУТ](https://vk.com/f_r_o_z_k_a)
-* **Поддержать проект 
+* Поддержать проект 
 ## Bitcoin -14FuMnDaJ5TyNvzwyGvTUkcDDr6TQ8t5i6
 ## Ozon Bank -[Ссылкой](https://finance.ozon.ru/apps/sbp/ozonbankpay/019f18bb-d003-7387-be45-910ea91d497a)
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7595356e-0ab9-4ee4-8752-9c5a624eb5de" />
