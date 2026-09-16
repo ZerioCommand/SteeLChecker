@@ -48,7 +48,8 @@
 
 * **Анализ скачиваний:** Определение даты первого скачивания игры путем анализа локальных директорий userdata.
 
-<img width="1920" height="1030" alt="{E2383EBA-64AE-41B4-9E04-502CD346F1CB}" src="https://github.com/user-attachments/assets/08df93a5-80db-4dd3-a938-4da707bbc482" />
+<img width="1920" height="1025" alt="{D968D779-95D9-431C-96EF-BDB4BD739DA2}" src="https://github.com/user-attachments/assets/30bf8def-a309-4cae-8a2c-e2a494959143" />
+
 
 ### Дополнительные инструменты
 
