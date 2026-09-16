@@ -35,7 +35,8 @@
 
 * **Установленные программы:** Анализ веток реестра Uninstall для выявления скрытых инсталляций.
 
-<img width="1920" height="1029" alt="{E1358B0E-3AB6-4A43-8359-AFD2ED4A2276}" src="https://github.com/user-attachments/assets/95a68637-5f9f-47b6-9375-7f2f47eff88d" />
+<img width="1920" height="1031" alt="{8A67F752-C075-47F8-AD0F-B4D9BA770A9B}" src="https://github.com/user-attachments/assets/c6b1a39c-ec9c-4a0b-a5b5-076fb23f17a7" />
+
 
 ### Анализ аккаунтов Steam
 
