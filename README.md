@@ -1,6 +1,6 @@
 # SteeLChecker (v3.0.0)
 
-* **Проект, который использует чекер:** [ТУТ](https://luxecs2.ru/) [ТУТ](https://lion-project.ru)
+* **Проекты, который использует чекер:** [ТУТ](https://luxecs2.ru/) [ТУТ](https://lion-project.ru)
 * **Покупка подписки / Полный выкуп программы:** [ТУТ](https://vk.com/f_r_o_z_k_a)
 * **Поддержать проект 
 ## Bitcoin -14FuMnDaJ5TyNvzwyGvTUkcDDr6TQ8t5i6
